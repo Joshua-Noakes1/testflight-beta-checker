@@ -1,0 +1,23 @@
+{
+  "name": "testflight-beta-checker",
+  "version": "1.0.0",
+  "description": "A way to notify you when a position opens in an ios testflight beta",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua-noakes1/testflight-beta-checker.git"
+  },
+  "author": "joshua-noakes1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshua-noakes1/testflight-beta-checker/issues"
+  },
+  "homepage": "https://github.com/joshua-noakes1/testflight-beta-checker#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.1"
+  }
+}
