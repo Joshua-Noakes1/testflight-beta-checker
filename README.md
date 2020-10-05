@@ -1,0 +1,2 @@
+# testflight beta checker
+ 
