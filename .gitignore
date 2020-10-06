@@ -1,3 +1,7 @@
+## Folders
 node_modules/
+old/
+## Files
 notes.txt
 .DS_Store
+.env
